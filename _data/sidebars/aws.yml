@@ -6,12 +6,28 @@ entries:
   version: 
   folders:
 
-  - title: Genel Bakış
+  - title: Bulut Bilişim Temelleri
     output: web
     folderitems:
 
-    - title: Bulut Bilişim Nedir
-      url: 
+    - title: Bulut Bilişim Nedir?
+      url: bulut-bilisim-nedir
+      output: web
+      type: homepage
+    - title: Bulut Bilişim Kısa Tarihi
+      url: bulut-bilisim-kisa-tarihi
+      output: web
+      type: homepage
+    - title: Bulut Bilişim Dağıtım Modelleri
+      url: bulut-bilisim-dagitim-modelleri
+      output: web
+      type: homepage
+    - title: Bulut Bilişim Dağıtım Modelleri
+      url: bulut-bilisim-hizmet-modelleri
+      output: web
+      type: homepage
+    - title: Bulut Bilişim Temel Özellikleri
+      url: bulut-bilisim-temel-ozellikleri
       output: web
       type: homepage
   
