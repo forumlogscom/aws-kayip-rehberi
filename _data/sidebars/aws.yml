@@ -1,0 +1,224 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: İçindekiler
+  version: 
+  folders:
+
+  - title: Genel Bakış
+    output: web
+    folderitems:
+
+    - title: Bulut Bilişim Nedir
+      url: 
+      output: web
+      type: homepage
+  
+  - title: Amazon IAM
+    output: web
+    folderitems:
+
+    - title: IAM Genel Bakış
+      url: aws-iam
+      output: web
+      type: homepage
+    - title: Amazon Güvenlik Durumlar Görevi 
+      url: iam-guvenlik-durumlari
+      output: web
+      type: homepage
+    - title: Root Erişim Anahtarını Silmek
+      url: root-erisim-hesabini-silmek
+      output: web
+      type: homepage
+    - title: MFA'yı root hesabında etkinleştirme
+      url: mfa-root-hesabinda-etkinlestirme
+      output: web
+      type: homepage
+    - title: Kişisel IAM Kullanıcısı oluşturmak
+      url: kisisel-iam-kullanicisi-olusturmak
+      output: web
+      type: homepage
+    - title: Grupları Kullanarak Yetki Atama
+      url: gruplari-kullanarak-yetki-atama
+      output: web
+      type: homepage
+    - title: IAM Poliçesi Oluşturma
+      url: iam-policesi-olusturma
+      output: web
+      type: homepage
+    - title: IAM Roller
+      url: iam-roller
+      output: web
+      type: homepage
+    - title: IAM Policeleri
+      url: iam-policeleri
+      output: web
+      type: homepage
+
+  - title: Amazon VPC
+    output: web
+    folderitems:
+
+    - title: VPC Genel Bakış
+      url: vpc-genel-bakis
+      output: web
+      type: homepage
+    - title: Ev Ağı Benzetimesi
+      url: ev-agi-benzetmesi
+      output: web
+      type: homepage
+    - title: VPC Alıştırması
+      url: vpc-alistirmasi
+      output: web
+      type: homepage
+  
+  - title: Amazon S3
+    output: web
+    folderitems:
+
+    - title: S3 Genel Bakış
+      url: s3-genel-bakis
+      output: web
+      type: homepage
+    - title: S3 Depolama Sınıfları
+      url: s3-depolama-siniflari
+      output: web
+      type: homepage
+    - title: S3 Alıştırması
+      url: s3-alistirmasi
+      output: web
+      type: homepage
+    - title: S3 Fiyatlar
+      url: s3-fiyatlar
+      output: web
+      type: homepage
+    - title: S3 Yaşam Dögüsü
+      url: s3-yasam-dongusu
+      output: web
+      type: homepage
+  
+  - title: Amazon EC2
+    output: web
+    folderitems:
+
+    - title: EC2 Genel Bakış
+      url: ec2-genel-bakis
+      output: web
+      type: homepage
+    - title: EC2 Temel Kavramlar
+      url: ec2-temel-kavramlar
+      output: web
+      type: homepage
+    - title: Amazon Machine Images (AMI)
+      url: amazon-machine-images
+      output: web
+      type: homepage
+    - title: Amazon EBS
+      url: amazon-ebs
+      output: web
+      type: homepage
+    - title: Amazon Güvenlik Duvarı
+      url: amazon-guvenlik-duvari
+      output: web
+      type: homepage
+    - title: Amazon IP Adresleme
+      url: amazon-ip-adresleme
+      output: web
+      type: homepage
+    - title: Amazon Örnek Çeşitleri
+      url: amazon-ornek-cesitleri
+      output: web
+      type: homepage
+    - title: Amazon EC2 Fiyatlandırma
+      url: amazon-ec2-fiyatlandirma
+      output: web
+      type: homepage
+    - title: EC2 Linux Örneği Oluşturma
+      url: amazon-ec2-ornegi-olusturma
+      output: web
+      type: homepage
+  
+  - title: Amazon Bulut Veritabanı
+    output: web
+    folderitems:
+
+    - title: Bulut Veritabanı Genel Bakış
+      url: bulut-veritabani-genel-bakis
+      output: web
+      type: homepage
+    - title: Amazon RDS Veritabanı Oluşturma
+      url: rds-olusturma-alistirmasi
+      output: web
+      type: homepage
+  - title: Amazon ElastiCache
+    output: web
+    folderitems:
+
+    - title: Amazon ElastiCache Genel Bakış
+      url: elasticache-genel-bakis
+      output: web
+      type: homepage
+  
+  - title: Amazon SES
+    output: web
+    folderitems:
+    
+    - title: Amazon SES Genel Bakış
+      url: amazon-ses-genel-bakis
+      output: web
+      type: homepage
+  
+  - title: Amazon SNS
+    output: web
+    folderitems:
+    - title: Amazon SNS Genel Bakış
+      url: amazon-sns-genel-bakis
+      output: web
+      type: homepage
+
+  - title: Amazon ELB
+    output: web
+    folderitems:
+
+    - title: Amazon ELB Genel Bakış
+      url: amazon-elb-genel-bakis
+      output: web
+      type: homepage
+
+  - title:  Amazon Auto Scaling 
+    output: web
+    folderitems:
+
+    - title:  Amazon Auto Scaling Genel Bakış
+      url: amazon-auto-scaling-genel-bakis
+      output: web
+      type: homepage
+  - title:  Amazon CloudWatch
+    output: web
+    folderitems:
+
+    - title: Amazon CloudWatch Genel Bakış
+      url: amazon-cloudwatch-genel-bakis
+      output: web
+      type: homepage
+  
+  - title:  Amazon Route53
+    output: web
+    folderitems:
+
+    - title: Amazon Route53 Genel Bakış
+      url: amazon-route53-genel-bakis
+      output: web
+      type: homepage
+    - title: Amazon Route53 Yönlendirme İlkeleri
+      url: amazon-route53-yonlendirme-ilkeleri
+      output: web
+      type: homepage
+
+
+
+
+
+
+    
