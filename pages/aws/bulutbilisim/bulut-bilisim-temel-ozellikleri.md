@@ -29,15 +29,15 @@ Performans denetimi vardır ve tutarlıdır ancak yetersiz bant genişliği veya
 
 ## Güvenirlik
 
-İş sürekliliği ve felaket kurtarma için uygun hale getiren ihtiyaç fazlası kaynağın olması sayesinde güvenilirlik, fakat IT ve iş yöneticileri, bir kesinti olduğunda yapacakları bir şey yoktur.  Bulut kesintilerine ilişkin geçmiş veriler Cloud Computing Incidents Database'de izlenir
+İş sürekliliği ve felaket kurtarma için uygun hale getiren ihtiyaç fazlası kaynağın olması sayesinde güvenilirdir. Fakat IT ve iş yöneticileri, bir kesinti olduğunda yapacakları bir şey yoktur.
 
 ## Ölçeklenebilirlik
 
-Azami yük durumları için mühendislik yapmaya gerek kalmadan değişen kullanıcı taleplerini hızlı bir şekilde karşılayan ölçeklenebilirlik. Tabi ölçeklenebilirlik, tamamen sizin kontrolünüz altında olan bir durumdur.
+Azami yük durumları için mühendislik yapmaya gerek kalmadan değişen kullanıcı taleplerini hızlı bir şekilde karşılayan ölçeklenebilirlik avantajı. Tabi ölçeklenebilirlik, tamamen sizin kontrolünüz altında olan bir durumdur.
 
 ## Güvenlik
 
-Verilerin merkezileştirilmesi, güvenlik odaklı kaynakların artırılması vb. Nedenlerle gelişen güvenlik, ancak bazı hassas verilerin kontrol kaybına uğrama kaygısı yaratır.
+Verilerin merkezileştirilmesi, güvenlik odaklı kaynakların artırılması vb. nedenlerle gelişen güvenlik, ancak bazı hassas verilerin kontrol kaybına uğrama kaygısı yaratır.
 
 ## Sürdürebilirlik
 

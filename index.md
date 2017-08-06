@@ -7,7 +7,7 @@ permalink: /
 summary: 
 ---
 
-AWS Kayıp Rehberi Çevrimiçi Kitabına Hoş Geldiniz
+AWS Kayıp Rehberi Çevrimiçi Kitabına Hoş Geldiniz.
 
 
 Bu kitap, Amazon Web Servislerini öğrenmeye yeni başlayan veya güncel kalmak isteyenlerin yararlanabileceği çevrimiçi bir kaynaktır.
@@ -19,4 +19,4 @@ Yardım almak için [forumlogs topluluğundan](https://forumlogs.com/c/bulut-bil
 
 Bu çevrimiçi kaynağa katkıda bulunabilirsiniz.
 
-Bunu yapmak için forumda bu konuyla ilgili başlık açarak, topluluğa sunabilirsiniz.
+Bunu yapmak için forumda konuyla ilgili başlık açarak, topluluğa sunabilirsiniz.

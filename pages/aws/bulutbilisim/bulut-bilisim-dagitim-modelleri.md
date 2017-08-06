@@ -6,14 +6,15 @@ sidebar: aws
 permalink: bulut-bilisim-dagitim-modelleri
 summary: 
 ---
-Bulut bilişim dağımtım modelleri genel (public) bulut, özel (private) bulut ve karma (hybrids) bulut olmak üzere üç tanedir.
+
+Bulut bilişim dağıtım modelleri; genel (public) bulut, özel (private) bulut ve karma (hybrids) bulut olmak üzere üç tanedir.
 
 
 ## Genel Bulut Dağıtımı
 
 Bu dağıtım modeli, sağlayıcılarına internet üzerinden hizmet sağlayan türdür. Asıl bulut bilişim dağıtım modeli diyebiliriz.
 
-Buluttaki uygulamalar ya bulutta oluşturulmuş yta da bulut bilişim yararlarından yararlanmak için mevcut bir altyapıdan geçirilmiştir.
+Buluttaki uygulamalar ya bulutta oluşturulmuş ya da bulut bilişim yararlarını kullanmak için mevcut bir altyapıdan geçirilmiştir.
 
 ## Karma Bulut Dağıtımı
 
@@ -25,4 +26,4 @@ Mevcut kaynaklara yatırım yapmak yerine, bulut kaynaklarını dahili sisteme b
 
 Sanallaştırma ve kaynak yönetimi araçlarını kullanarak kurum içi kaynakları dağıtmak bazen "özel bulut" olarak da adlandırılmaktadır.
 
-Özel Bulut, bulut bilgi işleminin pek çok avantajını sağlamaz, ancak bazen özel kaynaklar sunma becerisi için seçilen bir yöntemdir. Çoğu durumda bu dağıtım modeli, kaynak kullanımını artırmak için uygulama yönetimi ve sanallaştırma teknolojilerini kullanırken eski IT altyapısıyla aynıdır.
+Özel Bulut, bulut bilişimin pek çok avantajını sağlamaz, ancak bazen özel kaynaklar sunma becerisi için seçilen bir yöntemdir. Çoğu durumda bu dağıtım modeli, kaynak kullanımını artırmak için uygulama yönetimi ve sanallaştırma teknolojilerini kullanırken eski IT altyapısıyla aynıdır.
