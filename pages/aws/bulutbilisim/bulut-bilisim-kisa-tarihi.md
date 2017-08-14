@@ -19,7 +19,6 @@ Benjamin Black bunu kendi blogunda şöyle açıklamaktadır.
 
 ```
 Chris ve ben, Amazon altyapısı için tamamen standartlaştırılmış, otomatikleştirilmiş ve depolama gibi şeyler için geniş ölçüde web hizmetlerine dayanan bir vizyonunu anlatan kısa bir yazı yazdık. Depolama hizmetleri alanında düşünen ve yazı yazan (ve bazen de kodlayan) bir dizi diğer grupla çalıştık ve bunları altyapıdaki kendi düşünce ve deneyimimizle birleştirdik. Sonuna yaklaştığımızda **sanal sunucuları bir hizmet olarak satma** ihtimalinden söz ettik. 
-
 ```
 
 Daha sonra bu fikir, Amazon Kurucusu olan Jeff Bezos'a sunulmuş ve onun tarafından çok beğenilmiştir. Ve böylece ilk bulut bilişim hizmeti yolunda önemli bir adım atılmıştır.

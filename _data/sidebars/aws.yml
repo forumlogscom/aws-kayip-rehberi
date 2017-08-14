@@ -22,7 +22,7 @@ entries:
       url: bulut-bilisim-dagitim-modelleri
       output: web
       type: homepage
-    - title: Bulut Bilişim Dağıtım Modelleri
+    - title: Bulut Bilişim Hizmet Modelleri
       url: bulut-bilisim-hizmet-modelleri
       output: web
       type: homepage
